@@ -1,15 +1,25 @@
-# Hi there, I'm Tanvir Rahman 👋
+### Hi there 👋, Md Tanvir Rahman
+#### Front-End Web Developer 
+![Front-End Web Developer ](https://i.ibb.co/4sxNHVx/Md-Tanvir-Rahman-Git-Hub-Cover-Photo.png)
 
-## 🚀 About Me
-I'm a passionate web developer with a focus on front-end and back-end technologies. I enjoy building web applications that solve real-world problems and provide excellent user experiences.
+I'm a passionate web developer focusing on front-end and back-end technologies. I enjoy building web applications that solve real-world problems and provide excellent user experiences.
 
-## 🛠️ Skills
-- **Front-end Development:** HTML, CSS, Tailwind CSS, JavaScript, React
-- **Back-end Development:** Firebase, MongoDB, JWT
-- **Tools and Platforms:** Git, GitHub
+Skills: HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, MongoDB, JWT
 
-## 🌐 Connect with Me
-- **GitHub:** [TanvirRahman888](https://github.com/TanvirRahman888)
+- 🔭 I’m currently working on UpWork 
+- 🌱 I’m currently learning Node.js and Express.js 
+- 👯 I’m looking to collaborate on GitHub 
+- 💬 Ask me about Web Development 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanvirRahman888)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tanvirrahman888//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/tanvirrahman888)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://x.com/TanvirRahman888)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/upwork.svg' alt='upwork' height='40'>](https://www.upwork.com/freelancers/~01d0f186e71ab857be)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=TanvirRahman888)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanvirRahman888)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 ## 📈 GitHub Stats
 ![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=TanvirRahman888&show_icons=true&theme=radical)
