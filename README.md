@@ -7,7 +7,7 @@
 Skills: HTML, CSS, Tailwind CSS, JavaScript, React, Firebase, MongoDB, JWT
 
 - 🔭 I’m currently working on UpWork 
-- 🌱 I’m currently learning Node.js and Express.js 
+- 🌱 I’m currently learning Next.js,  Node.js and Express.js 
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development 
 
@@ -38,7 +38,7 @@ Here are some of my recent projects:
 ## 🌱 Learning and Growing
 I'm constantly learning new technologies and improving my skills. Currently, I'm diving deeper into:
 - Advanced React patterns
-- Node.js and Express.js
+- Next.js,  Node.js and Express.js 
 - Cloud services and deployment strategies
 
 Thanks for stopping by! Have a great day!
