@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="460" viewBox="0 0 1600 460">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#071326"/><stop offset=".52" stop-color="#0B1B32"/><stop offset="1" stop-color="#102B49"/></linearGradient>
+<linearGradient id="cyan" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset="1" stop-color="#60A5FA"/></linearGradient>
+<linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#172B46" stop-opacity=".98"/><stop offset="1" stop-color="#0A172B" stop-opacity=".98"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#1D80B3" stop-opacity=".32"/><stop offset="1" stop-color="#0B1B32" stop-opacity="0"/></radialGradient>
+<pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#6DA4BC" opacity=".15"/></pattern>
+<filter id="shadow" x="-20%" y="-20%" width="140%" height="140%"><feGaussianBlur stdDeviation="18"/></filter>
+</defs>
+<rect width="1600" height="460" fill="url(#bg)"/>
+<rect width="1600" height="460" fill="url(#dots)"/>
+<circle cx="1395" cy="80" r="380" fill="url(#glow)"/>
+<circle cx="750" cy="460" r="290" fill="url(#glow)"/>
+<path d="M0 421C250 370 414 469 689 417S1160 369 1600 407" stroke="#2A7794" opacity=".2" stroke-width="2" fill="none"/>
+<path d="M0 429C250 378 414 477 689 425S1160 377 1600 415" stroke="#4BA4CF" opacity=".13" stroke-width="2" fill="none"/>
+<rect x="95" y="107" width="6" height="243" rx="3" fill="url(#cyan)"/>
+<text x="130" y="115" fill="#6CD6F3" font-size="20" font-weight="600" font-family="DejaVu Sans,Arial,sans-serif" letter-spacing="4">FRONTEND DEVELOPER  /  GITHUB</text>
+<text x="128" y="205" fill="#F1F7FF" font-size="66" font-weight="800" font-family="DejaVu Sans,Arial,sans-serif" letter-spacing="-1">Md Tanvir Rahman</text>
+<text x="131" y="257" fill="#AEC7DE" font-size="27" font-weight="400" font-family="DejaVu Sans,Arial,sans-serif">Crafting thoughtful web experiences.</text>
+<g font-family="DejaVu Sans,Arial,sans-serif" font-size="17" font-weight="600" text-anchor="middle">
+<rect x="131" y="290" width="116" height="39" rx="19.5" fill="#143954" stroke="#267A9C"/><text x="189" y="316" fill="#82D9F0">React</text>
+<rect x="261" y="290" width="130" height="39" rx="19.5" fill="#143954" stroke="#267A9C"/><text x="326" y="316" fill="#82D9F0">Next.js</text>
+<rect x="405" y="290" width="159" height="39" rx="19.5" fill="#143954" stroke="#267A9C"/><text x="484" y="316" fill="#82D9F0">TypeScript</text>
+</g>
+<rect x="930" y="81" width="548" height="318" rx="18" fill="#000000" opacity=".3" filter="url(#shadow)"/>
+<rect x="928" y="75" width="548" height="318" rx="18" fill="url(#glass)" stroke="#36526B" stroke-width="1.5"/>
+<path d="M947 75h510a19 19 0 0 1 19 19v34H928V94a19 19 0 0 1 19-19Z" fill="#1B344D"/>
+<circle cx="958" cy="101" r="6" fill="#F87171"/><circle cx="980" cy="101" r="6" fill="#FBBF24"/><circle cx="1002" cy="101" r="6" fill="#34D399"/>
+<text x="1188" y="107" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#9BB8D0">developer.ts</text>
+<g font-family="DejaVu Sans Mono,monospace" font-size="18">
+<text x="967" y="170" fill="#69D2F4">const</text><text x="1031" y="170" fill="#E6EEF9"> developer </text><text x="1151" y="170" fill="#FCD34D">=</text><text x="1174" y="170" fill="#E6EEF9"> {</text>
+<text x="1003" y="212" fill="#B5CCE0">name:</text><text x="1083" y="212" fill="#94E7B6">"Md Tanvir Rahman",</text>
+<text x="1003" y="254" fill="#B5CCE0">focus:</text><text x="1096" y="254" fill="#94E7B6">"Frontend",</text>
+<text x="1003" y="296" fill="#B5CCE0">values:</text><text x="1096" y="296" fill="#F4D38B">["Clean UI", "UX"]</text>
+<text x="968" y="339" fill="#E6EEF9">};</text>
+</g>
+<rect x="926" y="390" width="0" height="1" fill="none"/>
+</svg>
