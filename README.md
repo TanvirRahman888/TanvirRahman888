@@ -88,6 +88,28 @@ I care about reusable components, responsive layouts, clear user flows, and buil
 </table>
 
 ---
+## 📈 GitHub Activity
+
+<div align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=TanvirRahman888&show_icons=true&theme=github_dark&hide_border=true"
+    alt="Tanvir's GitHub Stats"
+    height="170"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=TanvirRahman888&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
+    height="170"
+  />
+</div>
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=TanvirRahman888&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</div>
+
 
 ## 📈 GitHub Activity
 
